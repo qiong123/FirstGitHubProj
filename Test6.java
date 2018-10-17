@@ -16,5 +16,8 @@ public class Test6 {
 		//毫秒差  long 长整形  getTime():获取1970-1-1到现在当前时间的毫秒数
 		int day =(int) ((d1.getTime()-d2.getTime())/1000/60/60/24);
 		System.out.println(day);
-	}
+
+System.out.println("hello!");
+
+?	}
 }
